@@ -7,4 +7,5 @@ Api for banking operation (Assignment)
 3. H2 (for in-memory DB)
 4. Swagger
 5. Mockito
+6. Docker
 
