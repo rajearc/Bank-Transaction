@@ -19,7 +19,5 @@ Api for banking operation (Assignment)
     "amount":"100"
    }
 
-## LocalHost : 
-http://localhost:8080
-
-## Swagger Page Added.
+## Swagger Page :
+http://localhost:8080/swagger-ui.html
