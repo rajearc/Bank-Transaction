@@ -10,3 +10,16 @@ Api for banking operation (Assignment)
 6. Swagger2 for API documentation
 9. Docker
 
+## End-Points
+1. GET - /v1/accounts/{accountId}/details
+2. POST - /v1/transaction 
+ -  Body : {
+    "accountFromId":"1000321",
+    "accountToId":"2000121",
+    "amount":"100"
+   }
+
+## LocalHost : 
+http://localhost:8080
+
+## Swagger Page Added.
